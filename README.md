@@ -1,7 +1,7 @@
 # 👋 Hi, I’m [@AttAditya](https://github.com/AttAditya)
 1. I'm Aditya.
 2. 18+ since July 2023.
-3. Visit here for more info - [Portfolio Web Page(https://attaditya.is-a.dev/)](https://aditya.attachment-studios.tk/)
+3. Visit here for more info - [Portfolio Web Page(https://aditya.attachment-studios.tk/)](https://aditya.attachment-studios.tk/)
 
 
 [![stats](https://github-readme-stats.vercel.app/api?username=attachment-studios&show_icons=true&theme=radical&count_private=true&hide=prs,issues)](https://attachment-studios.tk)
