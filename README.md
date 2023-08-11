@@ -1,20 +1,16 @@
 # 👋 Hi, I’m [@AttAditya](https://github.com/AttAditya)
 1. I'm Aditya.
-2. I'm 17 or something.
+2. 18+ since July 2023.
 3. Visit here for more info - [Portfolio Web Page(https://attaditya.is-a.dev/)](https://attaditya.is-a.dev/)
 [![stats](https://github-readme-stats.vercel.app/api?username=attachment-studios&show_icons=true&theme=radical&count_private=true&hide=prs,issues)](https://attachment-studios.tk)
 [![stats](https://github-readme-stats.vercel.app/api?username=AttAditya&show_icons=true&theme=radical&count_private=true&hide=prs,issues)](https://attachment-studios.tk)
 
 # 👀 I’m interested in
 1. Coding
-2. Game Development
-3. Robotics
+2. Robotics
 
 # 🌱 I’m currently learning
-1. High School (Final Schooling Year, Will Join Colleges and Institutes Later)
-2. Physics, Chemistry, Mathematics, Informatics Practises
-3. Preparing for JEE 2023
-4. Preparing for CBSE Boards (India)
+1. Computer Science Engineering at Scaler School of Technology('23-'27 batch)
 
 # 💞️ I’m looking to collaborate on
 1. My Programming Language Synt - For Testing And Making Packages
