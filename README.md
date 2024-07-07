@@ -4,8 +4,8 @@
 3. Visit here for more info - [Portfolio Web Page(https://attaditya.tech/)](https://attaditya.tech/)
 
 
-[![stats](https://github-readme-stats.vercel.app/api?username=attachment-studios&show_icons=true&theme=radical&count_private=true&hide=prs,issues)](https://attachment-studios.tk)
-[![stats](https://github-readme-stats.vercel.app/api?username=AttAditya&show_icons=true&theme=radical&count_private=true&hide=prs,issues)](https://attachment-studios.tk)
+[![stats](https://github-readme-stats.vercel.app/api?username=attachment-studios&show_icons=true&theme=radical&count_private=true&hide=prs,issues)](https://attaditya.tech/)
+[![stats](https://github-readme-stats.vercel.app/api?username=AttAditya&show_icons=true&theme=radical&count_private=true&hide=prs,issues)](https://attaditya.tech/)
 
 # 👀 I’m interested in
 1. Coding
