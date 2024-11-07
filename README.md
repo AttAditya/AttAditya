@@ -4,7 +4,10 @@
 3. Visit here for more info - [Portfolio Web Page(https://attaditya.tech/)](https://attaditya.tech/)
 4. My Resume - [Drive Link to Resume (September 2024)](https://drive.google.com/file/d/1Qzl5kKou9c6aPHFB0p5kD6JvkPOg7ebh/view?usp=sharing)
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=AttAditya&show_icons=true&theme=radical&count_private=true&hide=prs,issues)](https://attaditya.tech/)
+<div align="center">
+  <a href="https://attaditya.tech/"><img src="https://github-readme-stats.vercel.app/api?username=attaditya&count_private=true&show_icons=true&theme=radical&rank_icon=github" width="45%" height="195px" alt="GitHub Stats" /></a>
+  <a href="https://attaditya.tech/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=attaditya&theme=radical&layout=compact" width="45%" height="195px" alt="Top Languages" /></a>
+</div>
 
 # 💻 Hacktoberfest 11 (2024)
 [![@attaditya's Holopin badges](https://holopin.me/attaditya)](https://holopin.io/@attaditya)
