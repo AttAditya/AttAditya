@@ -13,7 +13,11 @@
 [![@attaditya's Holopin badges](https://holopin.me/attaditya)](https://holopin.io/@attaditya)
 
 # 📈 LeetCode
-[![AttAditya's LeetCode](https://leetcard.jacoblin.cool/attaditya?theme=dark&font=Baloo%202&ext=contest)](https://leetcode.com/attaditya)
+<div align="center">
+  
+  [![AttAditya's LeetCode](https://leetcard.jacoblin.cool/attaditya?theme=dark&font=Baloo%202&ext=contest)](https://leetcode.com/attaditya)
+  
+</div>
 
 # 👀 I’m interested in
 1. Coding
