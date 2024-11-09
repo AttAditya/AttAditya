@@ -1,3 +1,7 @@
+<div align="center">
+  <a href="https://app.daily.dev/attaditya"><img src="https://api.daily.dev/devcards/v2/lGuBX2EnPVUVBNUlzaNhe.png?type=wide&r=i4l" width="652" alt="Attachment Aditya's Dev Card"/></a>
+</div>
+
 # 👋 Hi, I’m [@AttAditya](https://github.com/AttAditya)
 1. I'm Aditya.
 2. 19+ since July 2024.
