@@ -1,12 +1,17 @@
-<div align="center">
-  <a href="https://app.daily.dev/attaditya"><img src="https://api.daily.dev/devcards/v2/lGuBX2EnPVUVBNUlzaNhe.png?type=wide&r=i4l" width="652" alt="Attachment Aditya's Dev Card"/></a>
-</div>
+[![Portfolio Website](https://github.com/AttAditya/AttAditya/blob/main/Attachment%20Aditya.png?raw=true)](https://attaditya.vercel.app/)
 
 # 👋 Hi, I’m [@AttAditya](https://github.com/AttAditya)
+
 1. I'm Aditya.
 2. 19+ since July 2024.
 3. Visit here for more info - [Portfolio Web Page(https://attaditya.tech/)](https://attaditya.tech/)
 4. My Resume - [Drive Link to Resume (September 2024)](https://drive.google.com/file/d/1Qzl5kKou9c6aPHFB0p5kD6JvkPOg7ebh/view?usp=sharing)
+
+<br>
+<div align="center">
+  <a href="https://app.daily.dev/attaditya"><img src="https://api.daily.dev/devcards/v2/lGuBX2EnPVUVBNUlzaNhe.png?type=wide&r=i4l" width="652" alt="Attachment Aditya's Dev Card"/></a>
+</div>
+<br>
 
 <div align="center">
   <a href="https://attaditya.tech/"><img src="https://github-readme-stats.vercel.app/api?username=attaditya&count_private=true&show_icons=true&theme=radical&rank_icon=github" width="45%" height="195px" alt="GitHub Stats" /></a>
