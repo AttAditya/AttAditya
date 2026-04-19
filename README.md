@@ -3,9 +3,8 @@
 # 👋 Hi, I’m [@AttAditya](https://github.com/AttAditya)
 
 1. I'm Aditya.
-2. 19+ since July 2024.
-3. Visit here for more info - [Portfolio Web Page(https://attaditya.github.io/)](https://attaditya.github.io/)
-4. My Resume - [Drive Link to Resume (Updated Feb 2026)](https://drive.google.com/file/d/1bQRr284rXhys8BTadY5bejU2hYJY8vBJ/view)
+2. Visit here for more info - [Portfolio Web Page(https://attaditya.github.io/)](https://attaditya.github.io/)
+3. My Resume - [Drive Link to Resume (Updated Feb 2026)](https://drive.google.com/file/d/1bQRr284rXhys8BTadY5bejU2hYJY8vBJ/view)
 
 <br>
 <div align="center">
