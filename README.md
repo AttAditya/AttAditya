@@ -4,7 +4,7 @@
 
 1. I'm Aditya.
 2. Visit here for more info - [Portfolio Web Page(https://attaditya.github.io/)](https://attaditya.github.io/)
-3. My Resume - [Drive Link to Resume (Updated Feb 2026)](https://drive.google.com/file/d/1bQRr284rXhys8BTadY5bejU2hYJY8vBJ/view)
+3. My [SDE Resume](https://github.com/AttAditya/resume/blob/main/sde.md)
 
 <br>
 <div align="center">
