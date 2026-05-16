@@ -13,8 +13,13 @@
 <br>
 
 <div align="center">
-  <a href="https://attaditya.github.io/"><img src="https://github-readme-stats.vercel.app/api?username=attaditya&count_private=true&show_icons=true&theme=radical&rank_icon=github" width="45%" height="195px" alt="GitHub Stats" /></a>
-  <a href="https://attaditya.github.io/"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=attaditya&theme=radical&layout=compact" width="45%" height="195px" alt="Top Languages" /></a>
+  
+  ![Aditya's Stats](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=attaditya&theme=transparent)
+  ![Aditya's Stats](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=attaditya&theme=transparent)
+  ![Aditya's Stats](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=attaditya&theme=transparent)
+  ![Aditya's Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=attaditya&theme=transparent)
+  ![Aditya's Stats](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=attaditya&theme=transparent&utcOffset=8)
+
 </div>
 
 # 💻 Holopin
