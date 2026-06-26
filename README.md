@@ -4,7 +4,7 @@
 
 1. I'm Aditya.
 2. Visit here for more info - [Portfolio Web Page (https://attaditya.space/)](https://attaditya.github.io/)
-3. My [SDE Resume](https://github.com/AttAditya/resume/blob/main/sde.md)
+3. Checkout my [Resume](https://github.com/AttAditya/resume)
 
 <br>
 <div align="center">
