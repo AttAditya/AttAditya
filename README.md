@@ -1,4 +1,4 @@
-[![Portfolio Website](https://github.com/AttAditya/AttAditya/blob/main/Attachment%20Aditya.png?raw=true)](https://attaditya.vercel.app/)
+[![Portfolio Website](https://github.com/AttAditya/AttAditya/blob/main/Attachment%20Aditya.png?raw=true)](https://attaditya.github.io/)
 
 # 👋 Hi, I’m [@AttAditya](https://github.com/AttAditya)
 
