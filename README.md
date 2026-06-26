@@ -3,7 +3,7 @@
 # 👋 Hi, I’m [@AttAditya](https://github.com/AttAditya)
 
 1. I'm Aditya.
-2. Visit here for more info - [Portfolio Web Page(https://attaditya.github.io/)](https://attaditya.github.io/)
+2. Visit here for more info - [Portfolio Web Page (https://attaditya.space/)](https://attaditya.github.io/)
 3. My [SDE Resume](https://github.com/AttAditya/resume/blob/main/sde.md)
 
 <br>
